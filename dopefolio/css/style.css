@@ -217,6 +217,7 @@ textarea {
   .home-hero__social-icon-link {
     width: 100%;
     display: block;
+    text-align: center;
     padding: 1.2rem;
     border-bottom: 2px solid #eee;
     transition: background .3s; }
